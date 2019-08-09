@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "coc-css": "^1.0.7",
+    "coc-emmet": "^1.0.9",
+    "coc-json": "^1.0.15",
+    "coc-lists": "^1.1.2",
+    "coc-snippets": "^2.0.10",
+    "coc-solargraph": "^1.0.7"
+  }
+}
